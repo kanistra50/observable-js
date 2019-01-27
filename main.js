@@ -6,3 +6,4 @@ observable.subscribe('John');
 observable.unsubscribe('Micky');
 observable.subscribe('Edmond');
 observable.unsubscribe('Edmond');
+
